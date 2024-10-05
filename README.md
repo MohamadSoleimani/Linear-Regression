@@ -93,7 +93,7 @@ y^{(n)}
 \end{bmatrix}
 $$
 
-Where \(x_m^{(i)}\) indicates the \(m\)-th feature of data point \(i\).
+Where $\(x_m^{(i)}\)$ indicates the $\(m\)$-th feature of data point $\(i\)$.
 
 ## Cost Function Optimization: Multivariate
 
@@ -117,7 +117,7 @@ $$
 
 ## Analytical Solution: Multivariate
 
-The term \((X^T X)^{-1} X^T\) is called the pseudo-inverse of the matrix \(X\). The matrix \(X\) is often not square and, therefore, not invertible, but the pseudo-inverse can be computed for any matrix, regardless of its shape.
+The term $\((X^T X)^{-1} X^T\)$ is called the pseudo-inverse of the matrix $\(X\)$. The matrix $\(X\)$ is often not square and, therefore, not invertible, but the pseudo-inverse can be computed for any matrix, regardless of its shape.
 
 ## Conclusion
 
@@ -129,8 +129,4 @@ In this analytical method, we have derived the formula for calculating the optim
 - NumPy
 - Matplotlib (for visualization)
 
-## Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo.git
