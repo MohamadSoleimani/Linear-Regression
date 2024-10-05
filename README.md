@@ -51,7 +51,7 @@ $$
 Substituting this into the equation for \(w_1\), we can solve for \(w_1\) as follows:
 
 $$
-w_1 = \frac{n \sum_{i=1}^{n} y_i x_i - \sum_{i=1}^{n} y_i \sum_{i=1}^{n} x_i}{n \sum_{i=1}^{n} x_i^2 - \left( \sum_{i=1}^{n} x_i \right)^2}
+w_1 = \frac{n \sum_{i=1}^{n} y_i x_i - XY}{n \sum_{i=1}^{n} (x_i)^2 - \sum_{i=1}^{n} X^2}
 $$
 
 ## Conclusion
