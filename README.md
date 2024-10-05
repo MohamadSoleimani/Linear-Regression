@@ -64,8 +64,3 @@ In this analytical method, we have derived the formula for calculating the optim
 - NumPy
 - Matplotlib (for visualization)
 
-## Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo.git
